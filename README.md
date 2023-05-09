@@ -1,7 +1,6 @@
-# Github Resume
 
-## PATRYK MARUDA
-### Python Developer 
+# PATRYK MARUDA
+## Python Developer 
 
 ### PROFILE
 I am a Python Developer with experience in creating web applications using Python's web framework, mostly Django. I am passionate about developing my skills and knowledge and looking for new opportunities to work and grow as a Python Developer.
